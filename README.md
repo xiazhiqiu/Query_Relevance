@@ -124,7 +124,7 @@ prediction_result 文件夹         预测结果
 
 ## 7.运行环境
 
-* GPU RTX3090
+* GPU A800
 * ubuntu 20.04.1
 * cuda == 11.3
 * python == 3.8.13 

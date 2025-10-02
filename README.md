@@ -163,5 +163,5 @@ model_path = '../my_model/large_roberta_pair.pkl'
 ```
 结果会保存到prediction_result
 
-如需预测混合模型，需要训练好三个模型，设置test_mix.py中模型路径和模型权重，运行test_mix.py
+如需预测混合模型，需要训练好两个模型，设置test_mix.py中模型路径和模型权重，运行test_mix.py
 
